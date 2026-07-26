@@ -24,7 +24,7 @@ Desenvolvo soluções com foco em **funcionalidade**, **segurança**,
   />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="[www.linkedin.com/in/leandro-fernandes-951ab3189](https://www.linkedin.com/in/leandro-fernandes-951ab3189/)">
   <img
     src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
