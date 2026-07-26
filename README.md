@@ -278,3 +278,32 @@ Sempre aprendendo, documentando e aprimorando cada solução desenvolvida.
 </sub>
 
 </div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=LeandroFernandess&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+  alt="Estatísticas do GitHub de Leandro Fernandes"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&theme=tokyonight"
+  alt="Linguagens mais utilizadas por Leandro Fernandes"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroFernandess&theme=tokyonight&hide_border=true"
+  alt="Sequência de contribuições de Leandro Fernandes"
+/>
+
+</div>
