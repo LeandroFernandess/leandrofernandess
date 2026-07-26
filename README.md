@@ -223,7 +223,6 @@ Meu portfólio reúne projetos, experiências, tecnologias e parte da minha evol
 <img
   height="170"
   src="https://github-readme-stats.vercel.app/api?username=LeandroFernandess&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-  alt="Estatísticas do GitHub de Leandro Fernandes"
 />
 
 <img
