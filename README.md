@@ -291,7 +291,7 @@ Sempre aprendendo, documentando e aprimorando cada solução desenvolvida.
 
 <img
   height="170"
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&theme=tokyonight&hide_border=true"
   alt="Linguagens mais utilizadas por Leandro Fernandes"
 />
 
