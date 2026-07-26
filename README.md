@@ -1,7 +1,7 @@
 <p align="right">
   <a href="https://skillicons.dev">
     <h3>BackEnd</h3>
-    <img src="https://skillicons.dev/icons?i=django,python,php,java" />
+    <img src="https://skillicons.dev/icons?i=django,python,php,java,c#" />
   </a>
 </p>
 
