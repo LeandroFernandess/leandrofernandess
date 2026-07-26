@@ -222,11 +222,6 @@ Meu portfólio reúne projetos, experiências, tecnologias e parte da minha evol
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=LeandroFernandess&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-/>
-
-<img
-  height="170"
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&theme=tokyonight&hide_border=true"
   alt="Linguagens mais utilizadas por Leandro Fernandes"
 />
