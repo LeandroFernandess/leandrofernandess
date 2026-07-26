@@ -216,35 +216,6 @@ Meu portfólio reúne projetos, experiências, tecnologias e parte da minha evol
 
 </div>
 
-📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=LeandroFernandess&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-alt="Estatísticas do GitHub de Leandro Fernandes"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&hide_border=true&theme=github_dark"
-alt="Linguagens mais utilizadas por Leandro Fernandes"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroFernandess&theme=github-dark-blue&hide_border=true"
-alt="Sequência de contribuições de Leandro Fernandes"
-/>
-
-</div>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
