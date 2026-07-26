@@ -57,3 +57,36 @@ Minha tomada de decisão durante o desenvolvimento segue, principalmente, esta o
 4. Performance
 5. Experiência do usuário
 6. Elegância da implementação
+```
+
+🧰 Tecnologias e ferramentas
+<div align="center">
+⚙️ Back-End
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,php,nodejs&perline=8" alt="Tecnologias de Back-End" />
+
+<br><br>
+
+🎨 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs&perline=8" alt="Tecnologias de Front-End" />
+
+<br><br>
+
+🗄️ Bancos de dados e serviços
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&perline=8" alt="Bancos de dados e serviços" />
+
+<br><br>
+
+🛠️ Ferramentas e plataformas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,vercel,cloudflare,figma,md&perline=8" alt="Ferramentas e plataformas" />
+
+<br><br>
+
+📚 Atualmente estudando
+
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio&perline=8" alt="Tecnologias em aprendizado" />
+
+</div>
