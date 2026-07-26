@@ -1,14 +1,14 @@
 <p align="right">
   <a href="https://skillicons.dev">
     <h3>BackEnd</h3>
-    <img src="https://skillicons.dev/icons?i=django, python, php" />
+    <img src="https://skillicons.dev/icons?i=django,python,php" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <h3>FrontEnd</h3>
-    <img src="https://skillicons.dev/icons?i=css, html, js" />
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
   </a>
 </p>
 
