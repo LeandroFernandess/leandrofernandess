@@ -245,40 +245,6 @@ alt="Sequência de contribuições de Leandro Fernandes"
 
 </div>
 
-📫 Contato
-
-<div align="center">
-
-Estou aberto a conexões, troca de conhecimentos e oportunidades para participar de projetos relevantes.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/leandro-fernandes-951ab3189">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://leandro-fernandes-portfolio.vercel.app">
-  <img
-    src="https://img.shields.io/badge/Portfólio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfólio"
-  />
-</a>
-
-</div>
-
-<div align="center">
-
-Construindo software com organização, segurança e propósito.
-
-<sub>
-Sempre aprendendo, documentando e aprimorando cada solução desenvolvida.
-</sub>
-
-</div>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
