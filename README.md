@@ -65,3 +65,5 @@ Minha tomada de decisão durante o desenvolvimento segue, principalmente, esta o
 4. Performance
 5. Experiência do usuário
 6. Elegância da implementação
+```
+<a href=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroFernandess&layout=compact&theme=tokyonight></a>
