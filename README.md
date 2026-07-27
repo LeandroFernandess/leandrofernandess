@@ -14,14 +14,6 @@
 
 <h3>Desenvolvedor Full-Stack | Estudante de Engenharia de Software</h3>
 
-<a href="https://leandro-fernandes-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-</a>
-
-<a href="https://www.linkedin.com/in/leandro-fernandes-951ab3189">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
 </div>
 
 ---
@@ -97,7 +89,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
 
 <h3>📚 Atualmente estudando</h3>
 
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio,idea&perline=3" alt="Java, C# e .NET" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio,idea&perline=3" alt="Java, C#, .NET, Visual Studio, IntelliJ" />
 
 </div>
 
@@ -227,12 +219,12 @@ Portfólio pessoal criado para apresentar meus projetos, conhecimentos, experiê
 
 <p>Estou aberto a conexões, troca de conhecimentos e oportunidades para participar de projetos relevantes.</p>
 
-<a href="https://www.linkedin.com/in/leandro-fernandes-951ab3189">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://leandro-fernandes-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
-<a href="https://leandro-fernandes-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+<a href="https://www.linkedin.com/in/leandro-fernandes-951ab3189">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
