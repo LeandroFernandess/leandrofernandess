@@ -18,7 +18,7 @@ Desenvolvo soluções com foco em funcionalidade, segurança,clareza de código 
 
 <a href="https://leandro-fernandes-portfolio.vercel.app">
   <img
-    src="https://img.shields.io/badge/Portfólio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/Portfólio?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Portfólio"
   />
 </a>
