@@ -90,7 +90,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
     <td align="center">
       <strong>🛠️ Ferramentas e plataformas</strong>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,visualstudio,postman,vercel,cloudflare,figma,md&perline=6" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, Visual Studio, Postman, Vercel" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&perline=6" alt="Git, GitHub, Docker, VS Code, Postman, Vercel" />
     </td>
   </tr>
 </table>
