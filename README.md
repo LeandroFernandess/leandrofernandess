@@ -80,7 +80,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
     <td align="center">
       <strong>⚙️ Back-End</strong>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python,django,flask,php,nodejs&perline=5" alt="Python, Django, Flask, PHP e Node.js" />
+      <img src="https://skillicons.dev/icons?i=python,django,php&perline=5" alt="Python, Django, PHP" />
     </td>
     <td align="center">
       <strong>🎨 Front-End</strong>
@@ -94,19 +94,18 @@ Acredito que um bom software é resultado não apenas de código, mas também de
       <br><br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&perline=4" alt="MySQL, PostgreSQL, Firebase e Supabase" />
       <br><br>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
     </td>
     <td align="center">
       <strong>🛠️ Ferramentas e plataformas</strong>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,visualstudio,postman,vercel,cloudflare,figma,md&perline=6" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, Visual Studio, Postman, Vercel, Cloudflare, Figma e Markdown" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,visualstudio,postman,vercel,cloudflare,figma,md&perline=6" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, Visual Studio, Postman, Vercel" />
     </td>
   </tr>
 </table>
 
 <h3>📚 Atualmente estudando</h3>
 
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet&perline=3" alt="Java, C# e .NET" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio,idea&perline=3" alt="Java, C# e .NET" />
 
 </div>
 
