@@ -97,7 +97,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,oracle&perline=8"
+    src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&perline=8"
     alt="MySQL, PostgreSQL, Firebase e Supabase"
   />
 </a>
@@ -125,6 +125,8 @@ Acredito que um bom software é resultado não apenas de código, mas também de
 </a>
 
 </div>
+
+<br><br>
 
 🚀 Áreas de interesse
 
