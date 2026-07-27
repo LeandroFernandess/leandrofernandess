@@ -32,6 +32,8 @@ Desenvolvo soluções com foco em funcionalidade, segurança,clareza de código 
 
 </div>
 
+<br>
+
 👨‍💻 Sobre mim
 
 Sou desenvolvedor Full-Stack e estudante de Engenharia de Software, com experiência na construção e manutenção de aplicações, automações, integrações e soluções internas.
