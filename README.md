@@ -104,13 +104,6 @@ Acredito que um bom software é resultado não apenas de código, mas também de
 
 <br><br>
 
-<img
-src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-alt="Oracle"
-/>
-
-<br><br>
-
 <h3>🛠️ Ferramentas e plataformas</h3>
 
 <a href="https://skillicons.dev">
