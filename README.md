@@ -82,7 +82,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
   />
 </a>
 
-<br><br>
+<br>
 
 <h3>🎨 Front-End</h3>
 
@@ -93,7 +93,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
   />
 </a>
 
-<br><br>
+<br>
 
 <h3>🗄️ Bancos de dados e serviços</h3>
 
@@ -104,7 +104,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
   />
 </a>
 
-<br><br>
+<br>
 
 <h3>🛠️ Ferramentas e plataformas</h3>
 
@@ -115,7 +115,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
   />
 </a>
 
-<br><br>
+<br>
 
 <h3>📚 Atualmente estudando</h3>
 
@@ -128,7 +128,7 @@ Acredito que um bom software é resultado não apenas de código, mas também de
 
 </div>
 
-<br><br>
+<br>
 
 🚀 Áreas de interesse
 
