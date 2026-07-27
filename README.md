@@ -14,14 +14,6 @@
 
 <h3>Desenvolvedor Full-Stack | Estudante de Engenharia de Software</h3>
 
-<p>
-  Desenvolvo aplicações, automações e integrações com foco em
-  <strong>funcionalidade</strong>, <strong>segurança</strong>,
-  <strong>clareza de código</strong> e <strong>experiência do usuário</strong>.
-</p>
-
-<p>PHP • JavaScript • Python • SQL • Oracle • Django • Supabase</p>
-
 <a href="https://leandro-fernandes-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
