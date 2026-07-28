@@ -211,6 +211,14 @@ Portfólio pessoal criado para apresentar meus projetos, conhecimentos, experiê
 
 </div>
 
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/LeandroFernandess/LeandroFernandess/main/metrics.svg"
+  alt="Métricas do GitHub de Leandro Fernandes"
+  width="100%"
+/>
+
 ---
 
 ## 🌎 Contato
