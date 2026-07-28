@@ -166,33 +166,6 @@ Portfólio pessoal criado para apresentar meus projetos, conhecimentos, experiê
 
 ---
 
-## 🎯 Áreas de interesse
-
-- desenvolvimento Full-Stack;
-- arquitetura de software;
-- automação de processos;
-- APIs e integrações;
-- segurança de aplicações;
-- experiência do usuário;
-- qualidade e manutenção de código;
-- documentação técnica;
-- interfaces e experiências interativas.
-
----
-
-## 🧠 Atualmente
-
-- 🎓 cursando Engenharia de Software;
-- ☕ desenvolvendo meus conhecimentos em Java;
-- 🔷 estudando C# e o ecossistema .NET;
-- 🐍 aprimorando aplicações e automações com Python;
-- 🏗️ aprofundando conhecimentos em arquitetura e padrões de software;
-- 🔐 estudando práticas de segurança e qualidade;
-- 📖 desenvolvendo processos para documentação e organização de projetos;
-- 🧊 explorando interfaces interativas com Three.js e GSAP.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
